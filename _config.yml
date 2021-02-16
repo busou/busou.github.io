@@ -1,6 +1,6 @@
-resume_url: "Resume.pdf"
-author_name: "John Doe"
-url: johndoe.com
+resume_url: "kimahreum.pdf"
+author_name: "kim ahreum"
+url: -
 
 plugins:
   - jekyll-seo-tag
