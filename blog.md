@@ -1,8 +1,8 @@
 ---
 layout: blog
 permalink: /blog/
-title: Rohit Jain | Blog
+title: Ahreum Kim | Blog
 pagination:
   enabled: true
+published: true
 ---
-
