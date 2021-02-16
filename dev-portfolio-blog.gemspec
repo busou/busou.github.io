@@ -3,11 +3,11 @@
 Gem::Specification.new do |spec|
   spec.name          = "dev-portfolio-blog"
   spec.version       = "0.1.7"
-  spec.authors       = ["Rohit Jain"]
-  spec.email         = ["rohitjain18005@gmail.com"]
+  spec.authors       = ["kim"]
+  spec.email         = ["busou@naver.com"]
 
   spec.summary       = "This is a simple efficient blog and portfolio"
-  spec.homepage      = "https://github.com/rohitjain00/dev-portfolio-blog"
+  spec.homepage      = "https://github.com/busou.github.io"
   spec.license       = "MIT"
 
   spec.files = `git ls-files -z`.split("\x0").select do |f|
