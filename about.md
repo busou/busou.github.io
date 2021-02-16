@@ -2,15 +2,10 @@
 layout: description
 title: About
 permalink: /about/
+published: true
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+안녕하세요 김아름입니다.
 
 # Header 1
 
